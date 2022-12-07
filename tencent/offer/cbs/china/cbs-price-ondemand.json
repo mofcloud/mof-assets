@@ -1,0 +1,178 @@
+﻿[
+  {
+    "region": "ap-guangzhou",
+    "CLOUD_PREMIUM": 0.0009,
+    "CLOUD_BASIC": 0.001,
+    "CLOUD_SSD": 0.0025,
+    "CLOUD_HSSD": 0.0021,
+    "CLOUD_TSSD": 0.0021
+  },
+  {
+    "region": "ap-shanghai",
+    "CLOUD_PREMIUM": 0.0009,
+    "CLOUD_BASIC": 0.001,
+    "CLOUD_SSD": 0.0025,
+    "CLOUD_HSSD": 0.0021,
+    "CLOUD_TSSD": 0.0021
+  },
+  {
+    "region": "ap-nanjing",
+    "CLOUD_PREMIUM": 0.0005,
+    "CLOUD_BASIC": 0.001,
+    "CLOUD_SSD": 0.0014,
+    "CLOUD_HSSD": 0.0021,
+    "CLOUD_TSSD": 0.0021
+  },
+  {
+    "region": "ap-beijing",
+    "CLOUD_PREMIUM": 0.0009,
+    "CLOUD_BASIC": 0.001,
+    "CLOUD_SSD": 0.0025,
+    "CLOUD_HSSD": 0.0021,
+    "CLOUD_TSSD": 0.0021
+  },
+  {
+    "region": "ap-chengdu",
+    "CLOUD_PREMIUM": 0.0009,
+    "CLOUD_BASIC": 0.001,
+    "CLOUD_SSD": 0.0025,
+    "CLOUD_HSSD": 0.0021,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-chongqing",
+    "CLOUD_PREMIUM": 0.0009,
+    "CLOUD_BASIC": 0.001,
+    "CLOUD_SSD": 0.0025,
+    "CLOUD_HSSD": 0.0021,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-shanghai-fsi",
+    "CLOUD_PREMIUM": 0.00144,
+    "CLOUD_BASIC": 0.001,
+    "CLOUD_SSD": 0.0053,
+    "CLOUD_HSSD": -1,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-shenzhen-fsi",
+    "CLOUD_PREMIUM": 0.00144,
+    "CLOUD_BASIC": 0.001,
+    "CLOUD_SSD": 0.0053,
+    "CLOUD_HSSD": -1,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-beijing-fsi",
+    "CLOUD_PREMIUM": 0.00144,
+    "CLOUD_BASIC": 0.001,
+    "CLOUD_SSD": 0.0053,
+    "CLOUD_HSSD": -1,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-hongkong",
+    "CLOUD_PREMIUM": 0.0005,
+    "CLOUD_BASIC": 0.0015,
+    "CLOUD_SSD": 0.0025,
+    "CLOUD_HSSD": 0.0021,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "na-toronto",
+    "CLOUD_PREMIUM": 0.0005,
+    "CLOUD_BASIC": 0.0015,
+    "CLOUD_SSD": 0.0025,
+    "CLOUD_HSSD": -1,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-singapore",
+    "CLOUD_PREMIUM": 0.0005,
+    "CLOUD_BASIC": 0.0015,
+    "CLOUD_SSD": 0.0027,
+    "CLOUD_HSSD": 0.0033,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-jakarta",
+    "CLOUD_PREMIUM": 0.0005,
+    "CLOUD_BASIC": 0.0015,
+    "CLOUD_SSD": 0.0024,
+    "CLOUD_HSSD": 0.0033,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "na-siliconvalley",
+    "CLOUD_PREMIUM": 0.0005,
+    "CLOUD_BASIC": 0.0015,
+    "CLOUD_SSD": 0.0025,
+    "CLOUD_HSSD": 0.0033,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "eu-frankfurt",
+    "CLOUD_PREMIUM": 0.0005,
+    "CLOUD_BASIC": 0.0015,
+    "CLOUD_SSD": 0.0025,
+    "CLOUD_HSSD": 0.0033,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-seoul",
+    "CLOUD_PREMIUM": 0.0005,
+    "CLOUD_BASIC": 0.0015,
+    "CLOUD_SSD": 0.0025,
+    "CLOUD_HSSD": 0.0033,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-mumbai",
+    "CLOUD_PREMIUM": 0.0005,
+    "CLOUD_BASIC": 0.0015,
+    "CLOUD_SSD": 0.0025,
+    "CLOUD_HSSD": 0.0033,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "na-ashburn",
+    "CLOUD_PREMIUM": 0.0007,
+    "CLOUD_BASIC": 0.0015,
+    "CLOUD_SSD": 0.0023,
+    "CLOUD_HSSD": 0.0033,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-bangkok",
+    "CLOUD_PREMIUM": 0.0007,
+    "CLOUD_BASIC": 0.0015,
+    "CLOUD_SSD": 0.0024,
+    "CLOUD_HSSD": 0.0033,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "eu-moscow",
+    "CLOUD_PREMIUM": 0.0006,
+    "CLOUD_BASIC": 0.0015,
+    "CLOUD_SSD": 0.0024,
+    "CLOUD_HSSD": 0.0033,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-tokyo",
+    "CLOUD_PREMIUM": 0.0006,
+    "CLOUD_BASIC": 0.0015,
+    "CLOUD_SSD": 0.0024,
+    "CLOUD_HSSD": 0.0033,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "sa-saopaulo",
+    "CLOUD_PREMIUM": 0.0006,
+    "CLOUD_BASIC": 0.0015,
+    "CLOUD_SSD": 0.0024,
+    "CLOUD_HSSD": 0.0033,
+    "CLOUD_TSSD": -1
+  }
+]

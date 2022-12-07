@@ -1,0 +1,178 @@
+﻿[
+  {
+    "region": "ap-guangzhou",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.5,
+    "CLOUD_SSD": 1,
+    "CLOUD_HSSD": 1,
+    "CLOUD_TSSD": 1
+  },
+  {
+    "region": "ap-shanghai",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.5,
+    "CLOUD_SSD": 1,
+    "CLOUD_HSSD": 1,
+    "CLOUD_TSSD": 1
+  },
+  {
+    "region": "ap-nanjing",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.5,
+    "CLOUD_SSD": 1,
+    "CLOUD_HSSD": 1,
+    "CLOUD_TSSD": 1
+  },
+  {
+    "region": "ap-beijing",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.5,
+    "CLOUD_SSD": 1,
+    "CLOUD_HSSD": 1,
+    "CLOUD_TSSD": 1
+  },
+  {
+    "region": "ap-chengdu",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.5,
+    "CLOUD_SSD": 1,
+    "CLOUD_HSSD": 1,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-chongqing",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.5,
+    "CLOUD_SSD": 1,
+    "CLOUD_HSSD": 1,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-shanghai-fsi",
+    "CLOUD_PREMIUM": 0.56,
+    "CLOUD_BASIC": 0.5,
+    "CLOUD_SSD": 1.76,
+    "CLOUD_HSSD": -1,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-shenzhen-fsi",
+    "CLOUD_PREMIUM": 0.56,
+    "CLOUD_BASIC": 0.5,
+    "CLOUD_SSD": 1.76,
+    "CLOUD_HSSD": -1,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-beijing-fsi",
+    "CLOUD_PREMIUM": 0.56,
+    "CLOUD_BASIC": 0.5,
+    "CLOUD_SSD": 1.76,
+    "CLOUD_HSSD": -1,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-hongkong",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.75,
+    "CLOUD_SSD": 1.1,
+    "CLOUD_HSSD": 1.5,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "na-toronto",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.75,
+    "CLOUD_SSD": 1.1,
+    "CLOUD_HSSD": 1.5,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-singapore",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.75,
+    "CLOUD_SSD": 1.25,
+    "CLOUD_HSSD": 1.5,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-jakarta",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.75,
+    "CLOUD_SSD": 1.25,
+    "CLOUD_HSSD": 1.5,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "na-siliconvalley",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.75,
+    "CLOUD_SSD": 1.15,
+    "CLOUD_HSSD": 1.5,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "eu-frankfurt",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.75,
+    "CLOUD_SSD": 1.25,
+    "CLOUD_HSSD": 1.5,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-seoul",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.75,
+    "CLOUD_SSD": 1.3,
+    "CLOUD_HSSD": 1.5,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-mumbai",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.75,
+    "CLOUD_SSD": 1.2,
+    "CLOUD_HSSD": 1.5,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "na-ashburn",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.75,
+    "CLOUD_SSD": 1.25,
+    "CLOUD_HSSD": 1.5,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-bangkok",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.75,
+    "CLOUD_SSD": 1.25,
+    "CLOUD_HSSD": 1.5,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "eu-moscow",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.75,
+    "CLOUD_SSD": 1.3,
+    "CLOUD_HSSD": 1.5,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "ap-tokyo",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.75,
+    "CLOUD_SSD": 1.5,
+    "CLOUD_HSSD": 1.5,
+    "CLOUD_TSSD": -1
+  },
+  {
+    "region": "sa-saopaulo",
+    "CLOUD_PREMIUM": 0.35,
+    "CLOUD_BASIC": 0.75,
+    "CLOUD_SSD": 1.25,
+    "CLOUD_HSSD": 1.5,
+    "CLOUD_TSSD": -1
+  }
+]
